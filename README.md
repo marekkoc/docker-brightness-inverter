@@ -29,14 +29,13 @@ simple-image-system/
 
 ## Quick Start
 
-### 1. Clone or create project directory
+### 1. Clone GitHub project directory
 
 ```bash
-mkdir simple-image-system
-cd simple-image-system
+git docker-brightness-inverter
+cd docker-brightness-inverter
 ```
 
-### 2. Copy all files from artifacts
 
 ### 3. Run the system
 
