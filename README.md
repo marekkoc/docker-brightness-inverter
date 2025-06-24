@@ -32,16 +32,13 @@ simple-image-system/
 ### 1. Clone GitHub project directory
 
 ```bash
-git docker-brightness-inverter
+git git@github.com:marekkoc/docker-brightness-inverter.git
 cd docker-brightness-inverter
 ```
-
 
 ### 3. Run the system
 
 ```bash
-# Prepare environment and run
-mkdir -p shared/{input,queue,output,processed} logs
 docker compose build
 docker compose up -d
 ```
@@ -49,7 +46,7 @@ docker compose up -d
 ### 4. Test the system
 
 ```bash
-# Add a test image
+# Add a test image (or just drag and drop to the /shared/input folder) 
 cp /path/to/your/image.jpg shared/input/
 
 # Check logs
@@ -103,16 +100,6 @@ cat logs/processor.log
 ```
 
 ## Troubleshooting
-
-### Problem: Files are not detected
-- Check `shared/input/` directory permissions
-- Check if containers have access to shared directory
-- Check monitor logs
-
-### Problem: Images are not processed
-- Check if processor has access to `shared/queue/` directory
-- Check image format (if supported)
-- Check processor logs
 
 ### Problem: No access to directories
 ```bash
