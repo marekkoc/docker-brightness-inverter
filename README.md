@@ -158,21 +158,10 @@ docker compose down
 docker compose down --rmi all
 ```
 
-## Production Improvements
-
-The system can be extended with:
-
-1. **Web UI** - monitoring interface
-2. **REST API** - remote management
-3. **Database** - task tracking
-4. **Redis/RabbitMQ** - better task queue
-5. **Health checks** - container health monitoring
-6. **Metrics** - performance metrics
-7. **Multi-processing** - parallel processing
-8. **Different filters** - more image processing options
-
-However, for testing directory sharing, the current version is sufficient and easy to debug.
-
+---
+# Shared folder issues:
+1. 
+2.
 
 # Additional resources:
 1. [DCMTK](https://dcmtk.org/en/) - DICOM Toolkit; collection of libraries and applications implementing large parts of the DICOM standard.
