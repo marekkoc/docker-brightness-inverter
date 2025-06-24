@@ -1,0 +1,47 @@
+services:
+  # Container 1: Monitor - monitors input directory
+  image-monitor:
+    build:
+      context: .
+      dockerfile: Dockerfile.monitor
+      args:
+        - USER_ID=${USER_ID:-1000}
+        - GROUP_ID=${GROUP_ID:-1000}
+    container_name: image-monitor
+    volumes:
+      - ./shared:/app/shared
+      - ./logs:/app/logs
+    environment:
+      - WATCH_DIR=/app/shared/input
+      - QUEUE_DIR=/app/shared/queue
+      - LOG_LEVEL=INFO
+    restart: unless-stopped
+    depends_on:
+      - image-processor
+
+  # Container 2: Processor - processes images
+  image-processor:
+    build:
+      context: .
+      dockerfile: Dockerfile.processor
+      args:
+        - USER_ID=${USER_ID:-1000}
+        - GROUP_ID=${GROUP_ID:-1000}
+    container_name: image-processor
+    volumes:
+      - ./shared:/app/shared
+      - ./logs:/app/logs
+    environment:
+      - QUEUE_DIR=/app/shared/queue
+      - OUTPUT_DIR=/app/shared/output
+      - PROCESSED_DIR=/app/shared/processed
+      - LOG_LEVEL=INFO
+    restart: unless-stopped
+
+volumes:
+  shared_data:
+    driver: local
+
+networks:
+  default:
+    name: image-processing-network
