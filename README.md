@@ -1,11 +1,6 @@
-# docker-brightness-inverter
+# Simple Image Brightness Inversion System
 
-A simple Docker/Docker Compose-based system for automatic 2D image brightness inversion.
-
-
-# Simple Image Processing System
-
-A simple Docker container-based system for testing directory sharing. The system monitors a directory for new 2D images and performs color inversion on them.
+A simple Docker/Docker Compose-based system for automatic 2D image brightness inversion for testing directory sharing. The system monitors a directory for new 2D images and performs color inversion on them. The System is a simplified modificaton of [Data transfer station for image AI in the hospital](https://github.com/HaukeBartsch/data-transfer-station/tree/main) platform. 
 
 ## Architecture
 
@@ -15,7 +10,7 @@ The system consists of 2 Docker containers:
 2. **image-processor** - processes images from queue and performs color inversion
 
 ## Directory Structure
-
+The
 ```
 simple-image-system/
 ├── shared/                    # Shared directory between containers
