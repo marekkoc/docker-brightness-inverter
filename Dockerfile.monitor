@@ -1,0 +1,23 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+# Create non-root user
+RUN groupadd -r appuser && useradd -r -g appuser appuser
+
+# Install required packages
+RUN pip install watchdog pillow
+
+# Copy monitoring script
+COPY monitor.py /app/monitor.py
+
+# Create working directories and set permissions
+RUN mkdir -p /app/shared/input /app/shared/queue /app/shared/output /app/shared/processed /app/logs
+RUN chown -R appuser:appuser /app
+RUN chmod +x /app/monitor.py
+
+# Switch to non-root user
+USER appuser
+
+# Run monitor
+CMD ["python", "/app/monitor.py"]
