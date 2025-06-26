@@ -8,6 +8,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # Logging configuration
+"""
 logging.basicConfig(
     level=os.getenv('LOG_LEVEL', 'INFO'),
     format='%(asctime)s - MONITOR - %(levelname)s - %(message)s',
@@ -16,6 +17,15 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+"""
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler()  # Tylko to zostaw
+    ]
+)
+
 logger = logging.getLogger(__name__)
 
 class ImageHandler(FileSystemEventHandler):

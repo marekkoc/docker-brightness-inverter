@@ -5,7 +5,7 @@ import logging
 from pathlib import Path
 from PIL import Image, ImageOps
 import numpy as np
-
+"""
 # Logging configuration
 logging.basicConfig(
     level=os.getenv('LOG_LEVEL', 'INFO'),
@@ -15,6 +15,15 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+"""
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.StreamHandler()  # Tylko to zostaw
+    ]
+)
+
 logger = logging.getLogger(__name__)
 
 class ImageProcessor:

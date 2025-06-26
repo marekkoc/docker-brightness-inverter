@@ -1,0 +1,44 @@
+2025-06-25 07:51:05,213 - MONITOR - INFO - Starting image monitor...
+2025-06-25 07:51:05,214 - MONITOR - INFO - Monitored directory: /app/shared/input
+2025-06-25 07:51:05,214 - MONITOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:51:05,217 - MONITOR - INFO - Monitor started. Waiting for files...
+2025-06-25 07:51:36,277 - MONITOR - INFO - New image detected: pcd4238_07.jpg
+2025-06-25 07:51:37,279 - MONITOR - INFO - File pcd4238_07.jpg moved to processing queue
+2025-06-25 07:51:37,281 - MONITOR - INFO - New image detected: pcd4238_015_256.jpg
+2025-06-25 07:51:38,282 - MONITOR - INFO - File pcd4238_015_256.jpg moved to processing queue
+2025-06-25 07:51:38,284 - MONITOR - INFO - New image detected: pine_shoots256.jpg
+2025-06-25 07:51:39,286 - MONITOR - INFO - File pine_shoots256.jpg moved to processing queue
+2025-06-25 07:51:39,292 - MONITOR - INFO - New image detected: radishes256.jpg
+2025-06-25 07:51:40,294 - MONITOR - INFO - File radishes256.jpg moved to processing queue
+2025-06-25 07:51:40,295 - MONITOR - INFO - New image detected: red_peppers256.jpg
+2025-06-25 07:51:41,296 - MONITOR - INFO - File red_peppers256.jpg moved to processing queue
+2025-06-25 07:51:41,297 - MONITOR - INFO - New image detected: rug1256.jpg
+2025-06-25 07:51:42,299 - MONITOR - INFO - File rug1256.jpg moved to processing queue
+2025-06-25 07:52:50,065 - MONITOR - INFO - Starting image monitor...
+2025-06-25 07:52:50,065 - MONITOR - INFO - Monitored directory: /app/shared/input
+2025-06-25 07:52:50,065 - MONITOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:52:50,067 - MONITOR - INFO - Monitor started. Waiting for files...
+2025-06-25 07:53:30,378 - MONITOR - INFO - New image detected: pcd4238_07.jpg
+2025-06-25 07:53:31,382 - MONITOR - INFO - File pcd4238_07.jpg moved to processing queue
+2025-06-25 07:53:31,388 - MONITOR - INFO - New image detected: pcd4238_015_256.jpg
+2025-06-25 07:53:32,389 - MONITOR - INFO - File pcd4238_015_256.jpg moved to processing queue
+2025-06-25 07:53:32,391 - MONITOR - INFO - New image detected: pine_shoots256.jpg
+2025-06-25 07:53:33,392 - MONITOR - INFO - File pine_shoots256.jpg moved to processing queue
+2025-06-25 07:53:33,394 - MONITOR - INFO - New image detected: radishes256.jpg
+2025-06-25 07:53:34,396 - MONITOR - INFO - File radishes256.jpg moved to processing queue
+2025-06-25 07:53:34,397 - MONITOR - INFO - New image detected: red_peppers256.jpg
+2025-06-25 07:53:35,398 - MONITOR - INFO - File red_peppers256.jpg moved to processing queue
+2025-06-25 08:43:39,617 - MONITOR - INFO - New image detected: d30_2194.jpg
+2025-06-25 08:43:40,618 - MONITOR - INFO - File d30_2194.jpg moved to processing queue
+2025-06-25 08:43:40,620 - MONITOR - INFO - New image detected: d30_2199.jpg
+2025-06-25 08:43:41,621 - MONITOR - INFO - File d30_2199.jpg moved to processing queue
+2025-06-25 08:43:41,623 - MONITOR - INFO - New image detected: g1_0747.jpg
+2025-06-25 08:43:42,625 - MONITOR - INFO - File g1_0747.jpg moved to processing queue
+2025-06-25 08:43:42,626 - MONITOR - INFO - New image detected: olives256.jpg
+2025-06-25 08:43:43,628 - MONITOR - INFO - File olives256.jpg moved to processing queue
+2025-06-25 08:43:43,629 - MONITOR - INFO - New image detected: pcd2660_028_256.jpg
+2025-06-25 08:43:44,631 - MONITOR - INFO - File pcd2660_028_256.jpg moved to processing queue
+2025-06-25 08:43:44,633 - MONITOR - INFO - New image detected: pcd2660_036_256.jpg
+2025-06-25 08:43:45,635 - MONITOR - INFO - File pcd2660_036_256.jpg moved to processing queue
+2025-06-25 08:43:45,636 - MONITOR - INFO - New image detected: pcd3614_24.jpg
+2025-06-25 08:43:46,638 - MONITOR - INFO - File pcd3614_24.jpg moved to processing queue

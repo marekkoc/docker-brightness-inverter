@@ -3,3 +3,123 @@
 2025-06-24 14:54:27,449 - PROCESSOR - INFO - Output directory: /app/shared/output
 2025-06-24 14:54:27,449 - PROCESSOR - INFO - Processed directory: /app/shared/processed
 2025-06-24 14:54:27,450 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:12:14,331 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:12:14,332 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:12:14,332 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:12:14,332 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:12:14,332 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:12:47,059 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:12:47,060 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:12:47,060 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:12:47,060 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:12:47,060 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:13:31,004 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:13:31,004 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:13:31,004 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:13:31,004 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:13:31,004 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:37:13,620 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:37:13,620 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:37:13,620 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:37:13,620 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:37:13,620 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:38:28,315 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:38:28,315 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:38:28,315 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:38:28,315 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:38:28,315 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:40:02,513 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:40:02,513 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:40:02,513 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:40:02,513 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:40:02,514 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:40:31,465 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:40:31,465 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:40:31,465 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:40:31,465 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:40:31,465 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:40:59,331 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:40:59,331 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:40:59,331 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:40:59,331 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:40:59,332 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:42:25,622 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:42:25,622 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:42:25,623 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:42:25,623 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:42:25,623 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:46:39,397 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:46:39,397 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:46:39,397 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:46:39,397 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:46:39,398 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:51:05,107 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:51:05,107 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:51:05,107 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:51:05,107 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:51:05,107 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:51:40,144 - PROCESSOR - INFO - Found 3 tasks to process
+2025-06-25 07:51:40,145 - PROCESSOR - INFO - Processing image: pine_shoots256.jpg
+2025-06-25 07:51:40,170 - PROCESSOR - INFO - Image processed and saved: inverted_pine_shoots256.jpg
+2025-06-25 07:51:40,171 - PROCESSOR - INFO - Task completed successfully: pine_shoots256.jpg
+2025-06-25 07:51:40,171 - PROCESSOR - INFO - Processing image: pcd4238_07.jpg
+2025-06-25 07:51:40,177 - PROCESSOR - INFO - Image processed and saved: inverted_pcd4238_07.jpg
+2025-06-25 07:51:40,178 - PROCESSOR - INFO - Task completed successfully: pcd4238_07.jpg
+2025-06-25 07:51:40,178 - PROCESSOR - INFO - Processing image: pcd4238_015_256.jpg
+2025-06-25 07:51:40,183 - PROCESSOR - INFO - Image processed and saved: inverted_pcd4238_015_256.jpg
+2025-06-25 07:51:40,184 - PROCESSOR - INFO - Task completed successfully: pcd4238_015_256.jpg
+2025-06-25 07:51:45,190 - PROCESSOR - INFO - Found 3 tasks to process
+2025-06-25 07:51:45,190 - PROCESSOR - INFO - Processing image: red_peppers256.jpg
+2025-06-25 07:51:45,196 - PROCESSOR - INFO - Image processed and saved: inverted_red_peppers256.jpg
+2025-06-25 07:51:45,196 - PROCESSOR - INFO - Task completed successfully: red_peppers256.jpg
+2025-06-25 07:51:45,197 - PROCESSOR - INFO - Processing image: rug1256.jpg
+2025-06-25 07:51:45,205 - PROCESSOR - INFO - Image processed and saved: inverted_rug1256.jpg
+2025-06-25 07:51:45,206 - PROCESSOR - INFO - Task completed successfully: rug1256.jpg
+2025-06-25 07:51:45,206 - PROCESSOR - INFO - Processing image: radishes256.jpg
+2025-06-25 07:51:45,210 - PROCESSOR - INFO - Image processed and saved: inverted_radishes256.jpg
+2025-06-25 07:51:45,211 - PROCESSOR - INFO - Task completed successfully: radishes256.jpg
+2025-06-25 07:52:49,986 - PROCESSOR - INFO - Starting image processor...
+2025-06-25 07:52:49,986 - PROCESSOR - INFO - Queue directory: /app/shared/queue
+2025-06-25 07:52:49,986 - PROCESSOR - INFO - Output directory: /app/shared/output
+2025-06-25 07:52:49,986 - PROCESSOR - INFO - Processed directory: /app/shared/processed
+2025-06-25 07:52:49,986 - PROCESSOR - INFO - Processor started. Waiting for tasks...
+2025-06-25 07:53:35,030 - PROCESSOR - INFO - Found 4 tasks to process
+2025-06-25 07:53:35,031 - PROCESSOR - INFO - Processing image: radishes256.jpg
+2025-06-25 07:53:35,058 - PROCESSOR - INFO - Image processed and saved: inverted_radishes256.jpg
+2025-06-25 07:53:35,059 - PROCESSOR - INFO - Task completed successfully: radishes256.jpg
+2025-06-25 07:53:35,059 - PROCESSOR - INFO - Processing image: pine_shoots256.jpg
+2025-06-25 07:53:35,066 - PROCESSOR - INFO - Image processed and saved: inverted_pine_shoots256.jpg
+2025-06-25 07:53:35,067 - PROCESSOR - INFO - Task completed successfully: pine_shoots256.jpg
+2025-06-25 07:53:35,068 - PROCESSOR - INFO - Processing image: pcd4238_07.jpg
+2025-06-25 07:53:35,075 - PROCESSOR - INFO - Image processed and saved: inverted_pcd4238_07.jpg
+2025-06-25 07:53:35,076 - PROCESSOR - INFO - Task completed successfully: pcd4238_07.jpg
+2025-06-25 07:53:35,076 - PROCESSOR - INFO - Processing image: pcd4238_015_256.jpg
+2025-06-25 07:53:35,082 - PROCESSOR - INFO - Image processed and saved: inverted_pcd4238_015_256.jpg
+2025-06-25 07:53:35,083 - PROCESSOR - INFO - Task completed successfully: pcd4238_015_256.jpg
+2025-06-25 07:53:40,088 - PROCESSOR - INFO - Found 1 tasks to process
+2025-06-25 07:53:40,089 - PROCESSOR - INFO - Processing image: red_peppers256.jpg
+2025-06-25 07:53:40,094 - PROCESSOR - INFO - Image processed and saved: inverted_red_peppers256.jpg
+2025-06-25 07:53:40,095 - PROCESSOR - INFO - Task completed successfully: red_peppers256.jpg
+2025-06-25 08:43:43,429 - PROCESSOR - INFO - Found 3 tasks to process
+2025-06-25 08:43:43,430 - PROCESSOR - INFO - Processing image: d30_2194.jpg
+2025-06-25 08:43:43,437 - PROCESSOR - INFO - Image processed and saved: inverted_d30_2194.jpg
+2025-06-25 08:43:43,438 - PROCESSOR - INFO - Task completed successfully: d30_2194.jpg
+2025-06-25 08:43:43,438 - PROCESSOR - INFO - Processing image: g1_0747.jpg
+2025-06-25 08:43:43,445 - PROCESSOR - INFO - Image processed and saved: inverted_g1_0747.jpg
+2025-06-25 08:43:43,446 - PROCESSOR - INFO - Task completed successfully: g1_0747.jpg
+2025-06-25 08:43:43,447 - PROCESSOR - INFO - Processing image: d30_2199.jpg
+2025-06-25 08:43:43,453 - PROCESSOR - INFO - Image processed and saved: inverted_d30_2199.jpg
+2025-06-25 08:43:43,454 - PROCESSOR - INFO - Task completed successfully: d30_2199.jpg
+2025-06-25 08:43:48,459 - PROCESSOR - INFO - Found 4 tasks to process
+2025-06-25 08:43:48,461 - PROCESSOR - INFO - Processing image: olives256.jpg
+2025-06-25 08:43:48,466 - PROCESSOR - INFO - Image processed and saved: inverted_olives256.jpg
+2025-06-25 08:43:48,467 - PROCESSOR - INFO - Task completed successfully: olives256.jpg
+2025-06-25 08:43:48,467 - PROCESSOR - INFO - Processing image: pcd2660_028_256.jpg
+2025-06-25 08:43:48,473 - PROCESSOR - INFO - Image processed and saved: inverted_pcd2660_028_256.jpg
+2025-06-25 08:43:48,474 - PROCESSOR - INFO - Task completed successfully: pcd2660_028_256.jpg
+2025-06-25 08:43:48,475 - PROCESSOR - INFO - Processing image: pcd3614_24.jpg
+2025-06-25 08:43:48,481 - PROCESSOR - INFO - Image processed and saved: inverted_pcd3614_24.jpg
+2025-06-25 08:43:48,482 - PROCESSOR - INFO - Task completed successfully: pcd3614_24.jpg
+2025-06-25 08:43:48,482 - PROCESSOR - INFO - Processing image: pcd2660_036_256.jpg
+2025-06-25 08:43:48,488 - PROCESSOR - INFO - Image processed and saved: inverted_pcd2660_036_256.jpg
+2025-06-25 08:43:48,489 - PROCESSOR - INFO - Task completed successfully: pcd2660_036_256.jpg
